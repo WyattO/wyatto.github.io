@@ -1,8 +1,6 @@
 .center {
-  margin: auto;
-  width: 90%;
-  border: 3px solid #73AD21;
-  padding: 5px;
+  flex: 90%;
+ 
 }
 
 .row {
@@ -13,8 +11,8 @@
 
 /* Create four equal columns that sits next to each other */
 .column {
-  flex: 25%;
-  max-width: 25%;
+  flex: 50%;
+  max-width: 50%;
   padding: 0 4px;
 }
 
