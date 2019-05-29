@@ -51,8 +51,8 @@
 /* Create 2 equal columns that sits next to each other */
 
 .column {
-    flex: 50%;
-    max-width: 50%;
+    flex: 33%;
+    max-width: 33%;
     padding: 0 4px;
 }
 
