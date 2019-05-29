@@ -22,7 +22,7 @@
 .TitleText{
   text-align: center;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  font-size: large;
+  font-size: 48pt;
   font-weight: bold; 
   
   }
@@ -36,7 +36,7 @@
 .column img {
   margin-top: 8px;
   vertical-align: middle;
-  width: 100%;
+  width: 75%;
 }
 
 /* Responsive layout - makes a two column-layout instead of four columns */
