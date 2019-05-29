@@ -19,7 +19,7 @@
   text-align: center;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 48pt;
-  font-weight: bold; 
+  font-weight: 200;
   background-color: rgb(205, 241, 255);
 
   }
@@ -39,15 +39,15 @@
 
 /* Create 2 equal columns that sits next to each other */
 .column {
-  flex: 50%;
-  max-width: 50%;
+  flex: 45%;
+  max-width: 45%;
   padding: 0 4px;
 }
 
 .column img {
   margin-top: 8px;
   vertical-align: middle;
-  width: 75%;
+  width: 100%;
 }
 
 /* Responsive layout - makes a two column-layout instead of four columns */
