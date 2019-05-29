@@ -1,5 +1,8 @@
-.center {
-  flex: 90%;
+.center60 {
+  vertical-align: middle;
+  flex: 60%;
+  max-width: 60;
+  padding: 0 4px;
  }
 
 .row {
