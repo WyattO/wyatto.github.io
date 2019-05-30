@@ -37,7 +37,7 @@ html {
 
 /* Text Overlay */
 
-.horizontal ul {
+.ul {
     display: block;
     list-style-type: disc;
     margin-block-start: 1em;
