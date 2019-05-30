@@ -81,7 +81,7 @@
 .row {
     display: flex;
     flex-wrap: wrap;
-    padding: 0 px;
+    padding: 4 px;
 }
 
 
@@ -90,7 +90,7 @@
 .column {
     flex: 33.33%;
     max-width: 33.33%;
-    padding: 0px;
+    padding: 4px;
 }
 
 .column img {
