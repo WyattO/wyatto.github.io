@@ -21,13 +21,13 @@
 
 .body,
 html {
-    background-image: url("/img/flattery.jpg");
+    background-image: url("http://wyattxphoto.com/wp-content/uploads/2019/04/20180918-DJI_0144-1024x767.jpg");
     background-size: cover;
     height: 100%;
 }
 
 .bg {
-    background-image: url("/img/flattery.jpg");
+    background-image: url("http://wyattxphoto.com/wp-content/uploads/2019/04/20180918-DJI_0144-1024x767.jpg");
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
