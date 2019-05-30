@@ -37,6 +37,12 @@ html {
 
 /* Text Overlay */
 
+.menuTitle {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 32px;
+    color: white;
+}
+
 .horizontalMenu {
     display: block;
     list-style-type: disc;
