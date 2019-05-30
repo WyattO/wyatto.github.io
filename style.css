@@ -47,6 +47,18 @@ html {
     padding-inline-start: 40px;
 }
 
+.li a {
+    float: left;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+
 a,
 a:active,
 a:focus,
