@@ -58,23 +58,6 @@ html {
     float: center;
 }
 
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-}
-
-a,
-a:active,
-a:focus,
-a:hover,
-a:visited {
-    text-decoration: darken;
-    cursor: pointer;
-    outline: 0;
-}
-
 .overlay {
     position: absolute;
     top: 0;
