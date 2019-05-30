@@ -35,6 +35,15 @@ html {
 }
 
 
+/* port menu css */
+
+imgSquare {
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+}
+
+
 /* Text Overlay */
 
 .menuTitle {
