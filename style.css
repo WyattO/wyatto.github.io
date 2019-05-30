@@ -44,6 +44,10 @@ html {
     color: white;
 }
 
+li {
+    list-style: none;
+}
+
 .horizontalMenu {
     display: block;
     list-style-type: disc;
