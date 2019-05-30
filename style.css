@@ -19,6 +19,11 @@
 
 /* BackGround CSS*/
 
+.body {
+    height: 100%;
+    margin: 0;
+}
+
 .bg {
     background-image: url("/img/flattery.jpg");
     height: 100%;
