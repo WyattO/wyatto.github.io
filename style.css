@@ -39,7 +39,6 @@
 
 .container1:hover .overlay {
     margin-top: 4px;
-    margin-bottom: 4px;
     opacity: .7;
 }
 
@@ -83,7 +82,7 @@
 .row {
     display: flex;
     flex-wrap: wrap;
-    padding: 2 px;
+    padding: 4 px;
 }
 
 
@@ -92,7 +91,7 @@
 .column {
     flex: 33.33%;
     max-width: 33.33%;
-    padding: 2 px;
+    padding: 4 px;
 }
 
 .column img {
