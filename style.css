@@ -92,7 +92,7 @@
 .column {
     flex: 33.33%;
     max-width: 33.33%;
-    padding: 4px;
+    padding: 2px;
 }
 
 .column img {
@@ -121,4 +121,4 @@
     }
 }
 
-cap
+no cap
