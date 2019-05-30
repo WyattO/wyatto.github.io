@@ -88,13 +88,13 @@
 /* Create 2 equal columns that sits next to each other */
 
 .column {
-    flex: 33%;
-    max-width: 33%;
+    flex: 33.33%;
+    max-width: 33.33%;
     padding: 0px;
 }
 
 .column img {
-    margin-top: 8px;
+    margin-top: 0px;
     vertical-align: middle;
     width: 100%;
 }
