@@ -32,6 +32,11 @@
     background-color: #008CBA;
 }
 
+.container1 {
+    position: relative;
+    width: 50%;
+}
+
 .container:hover .overlay {
     opacity: 1;
 }
