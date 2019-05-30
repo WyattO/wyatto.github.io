@@ -38,6 +38,7 @@
 }
 
 .container1:hover .overlay {
+    margin-top: 4px;
     opacity: .7;
 }
 
@@ -94,7 +95,7 @@
 }
 
 .column img {
-    margin-top: 0px;
+    margin-top: 4px;
     vertical-align: middle;
     width: 100%;
 }
