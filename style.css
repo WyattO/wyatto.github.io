@@ -37,7 +37,7 @@ html {
 
 /* Text Overlay */
 
-.ul {
+.horizontal ul {
     display: block;
     list-style-type: disc;
     margin-block-start: 1em;
@@ -45,6 +45,16 @@ html {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     padding-inline-start: 40px;
+}
+
+a,
+a:active,
+a:focus,
+a:hover,
+a:visited {
+    text-decoration: darken;
+    cursor: pointer;
+    outline: 0;
 }
 
 .overlay {
