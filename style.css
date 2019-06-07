@@ -95,6 +95,25 @@ li {
     opacity: .7;
 }
 
+
+.container2 {
+    position: relative;
+    width: 100%;
+    
+}
+
+.container2 .overlay {
+    margin-top: 04px;
+    margin-bottom: 04px;
+    opacity: .5;
+}
+.container2:hover .overlay {
+    margin-top: 04px;
+    margin-bottom: 04px;
+    opacity: 0;
+}
+
+
 .text {
     color: white;
     font-size: 20px;
@@ -106,7 +125,13 @@ li {
     transform: translate(-50%, -50%);
     text-align: center;
 }
-
+/* Centered text */
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
 
 /*Text CSS */
 
