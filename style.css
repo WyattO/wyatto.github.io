@@ -22,44 +22,20 @@
 
 /* BackGround CSS*/
 
-/* .body,
+.body,
 html {
-     background-image: url("http://wyattxphoto.com/wp-content/uploads/2019/04/20180918-DJI_0144-1024x767.jpg"); 
-     background-size: cover;
-     background-position: center;
-     background-repeat: no-repeat;
-     height: 100%;
-} /*/
+    /* background-image: url("http://wyattxphoto.com/wp-content/uploads/2019/04/20180918-DJI_0144-1024x767.jpg"); */
+    background-size: cover;
+    height: 100%;
+}
 
 .bg {
     background-image: url("http://wyattxphoto.com/wp-content/uploads/2019/04/20180918-DJI_0144-1024x767.jpg");
-    /*height: 100%;*/
-    width: 100%;
+    height: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
-/*
-#Footer{
-    background: url("http://wyattxphoto.com/wp-content/uploads/2019/04/20180918-DJI_0144-1024x767.jpg");
-    min-height: 380px;
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    z-index: 1;
-}
-*/
-/*
-#Header, #Footer{
-    background-repeat: no-repeat;
-    background-size: cover;
-    overflow: hidden;
-    height: 100%;
-    float: left;
-    clear: both;
-    margin: 0;
-}
-*/
 
 
 /* port menu css */
@@ -108,7 +84,7 @@ li {
     width: 100%;
     opacity: 0;
     transition: .5s ease;
-    background-color: rgb(13, 20, 22);
+    background-color: rgb(46, 60, 65);
 }
 
 .container1 {
@@ -178,7 +154,7 @@ li {
 }
 
 .p {
-    font-family: 'Areiel';
+    font-family: 'SweetSans';
     font-size: 14px;
 }
 
@@ -278,7 +254,6 @@ h3 {
         max-width: 50%;
     }
 }
-
 
 
 /*  makes the two columns stack on top of each other instead of next to each other */
